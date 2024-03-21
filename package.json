@@ -12,7 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^5.0.0-beta.2"
+    "express": "^5.0.0-beta.2",
+    "nodemailer": "^6.9.13",
+    "nodemailer-base64-to-s3": "^4.0.1"
   }
 }
